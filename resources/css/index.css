@@ -1,3 +1,28 @@
 *{
     text-align: center;
 }
+
+body{
+    background-color: black;
+    font-family: Verdana,sans-serif;
+}
+
+h1{
+    color: white;
+    font-weight: normal;
+}
+
+h2{
+    color: white;
+    font-weight: normal;
+
+}
+a{
+    color: Aquamarine;
+    font-size: small;
+}
+
+.caption{
+    color:Gray;
+    font-size: medium;
+}
